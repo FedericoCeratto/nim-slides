@@ -1,0 +1,14 @@
+
+Files:
+  ./js/reveal.js
+  ./css/reveal.css
+  ./css/theme/black.css
+  ./plugin/markdown/markdown.js
+  ./plugin/markdown/marked.js
+Downloaded from: https://github.com/hakimel/reveal.js
+License: MIT
+Author: Hakim El Hattab and other contributors
+
+
+All other files are released under CC BY-SA (Creative Commons Attribution-ShareAlike)
+Author: Nim developers

@@ -1,0 +1,11 @@
+=== Nim slides
+
+This repository contains slides on the Nim programming language.
+
+You are encouraged to use them in presentation without having to ask for permission.
+
+Contributions to the index.html deck or other decks are welcome.
+
+The index.html deck is served by Rawgit at https://rawgit.com/FedericoCeratto/nim-slides/master/index.html
+
+The contents are in Markdown format, can be edited from GitHub and require no tooling to view or update the decks.
